@@ -1,0 +1,33 @@
+.hexagon{
+	margin-left: 50%;
+	margin-top:15%;
+	width:500px;
+	height:100px ;
+	background-position: center;
+    background: green;
+   
+    
+   
+
+}
+.hexagon-in{
+
+	width:100%;
+	height:100% ;
+	background-position: center;
+    background: red;
+    transform: rotate(30deg);
+    
+
+
+ }
+ .hexagon-image{
+
+    width:100%;
+	height:100% ;
+	background-position: center;
+    background: yellow;
+    transform: rotate(120deg);
+   
+   
+   }
